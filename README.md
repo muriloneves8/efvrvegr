@@ -10,7 +10,7 @@ Neste repositório aprenderei a utilizar os comandos básicos do github, assim c
 ### Repositório Local 
 - **git add** *para adicionar um arquivo*
 - **git init** *ele serve para iniciar*
-- **git commit -m** *ele da um nome para seu
+- **git commit -m** *ele da um nome para seu texto
 
 ### Branchs
 - **git branch -M main** *ele muda as configurações padrões de master para main*
